@@ -23,4 +23,3 @@ public class CdrRequestDto {
     private String cellId;
     private String lacId;
 }
-

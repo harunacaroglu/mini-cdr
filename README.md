@@ -11,7 +11,7 @@ Java + Spring Boot + MySQL + Docker kullanılarak geliştirilmiş REST API proje
 - `GET /api/cdrs/by-receiver/{bNumber}` – Aranan numaraya göre filtre
 
 
-## Docker ile Çalıştırma
+## Docker ile Çalıştırmak İçin
 
 ```bash
 docker-compose up --build
